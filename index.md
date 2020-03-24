@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Preguntas frecuentes acerca del Coronavirus
 
-You can use the [editor on GitHub](https://github.com/jjairoph/coronavirus/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Este chatbot contiene información y orientaciones de la OMS acerca del actual brote de enfermedad por coronavirus (COVID-19). Utiliza información tomada de la página oficial de la OMS. La OMS está colaborando estrechamente con expertos mundiales, gobiernos y asociados para ampliar rápidamente los conocimientos científicos sobre este nuevo virus, rastrear su propagación y virulencia y asesorar a los países y las personas sobre la medidas para proteger la salud y prevenir la propagación del brote. Si desea más información vaya al sitio de la OMS: https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+El link a la página de prueba es:
+https://jjairoph.github.io/coronavirus/
+
 
 ### Markdown
 
