@@ -7,10 +7,6 @@ El link a la página de prueba es:
 https://jjairoph.github.io/coronavirus/
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jjairoph/coronavirus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 
 <script src="https://cdn.cai.tools.sap/webchat/webchat.js"
 channelId="fb3bcfce-8339-4525-a388-3b6d62930603"
