@@ -13,9 +13,7 @@ channelId="fb3bcfce-8339-4525-a388-3b6d62930603"
 token="42b42b541a0d41209650497947c820ba"
 id="cai-webchat"
 ></script>
-Optional
 
-// Put the meta tag below for mobile responsive
 <meta name="viewport" content="width=device-width">
 
 
